@@ -1,1 +1,1 @@
-# Medium-clone-paga
+# Medium-clone-page
